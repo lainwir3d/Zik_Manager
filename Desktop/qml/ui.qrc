@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>pages_zik2/FirstPage.qml</file>
+        <file>pages_zik2/LoadingPage.qml</file>
+        <file>elements/EqualizerSlider.qml</file>
+        <file>pages_zik2/ConcertHallPage.qml</file>
+        <file>pages_zik2/EqualizerPage.qml</file>
+        <file>pages_zik2/ProducerEqualizerPage.qml</file>
+        <file>elements/ParametricEqualizer.qml</file>
+        <file>pages_zik2/SavePresetPage.qml</file>
+        <file>pages_zik2/PresetPage.qml</file>
+        <file>pages_zik2/NoiseControlPage.qml</file>
+        <file>elements/EquaBand.qml</file>
+        <file>pages_zik2/bg.jpg</file>
+        <file>elements/desktop/CustomSwitch.qml</file>
+        <file>elements/desktop/LabeledSwitch.qml</file>
+        <file>pages_zik2/icon-left-arrow.png</file>
+        <file>pages_zik2/SettingsPage.qml</file>
+        <file>pages_zik2/icon-camera-settings.png</file>
+        <file>pages_zik2/AboutPage.qml</file>
+        <file>elements/desktop/CustomTextField.qml</file>
+        <file>pages_zik2/widescreen.qml</file>
+        <file>elements/desktop/CustomTextArea.qml</file>
+        <file>elements/desktop/CustomSeparator.qml</file>
+        <file>elements/desktop/CustomButton.qml</file>
+        <file>pages_zik2/arrow.svg</file>
+        <file>icon.png</file>
+        <file>elements/desktop/IconedLabel.qml</file>
+        <file>elements/desktop/ThreeStateSwitch.qml</file>
+        <file>debugmain.qml</file>
+        <file>icon-tray-300x300.png</file>
+    </qresource>
+</RCC>

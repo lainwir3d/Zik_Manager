@@ -1,0 +1,38 @@
+Name: harbour-zik2-manager
+Summary: An unofficial native manager for the Parrot Zik headphones family.
+Version: 1.3
+Release: 1
+Group: Qt/Qt
+URL:
+License: Proprietary
+Sources:
+- '%{name}-%{version}.tar.bz2'
+Description: |
+  An unofficial native manager for the Parrot Zik headphones family:
+
+    - Set different noise cancelling parameters.
+    - Want to listen to music but still hear what's going on around you ? Enable Street Mode !
+    - Change the way your music sound using the headphone builtin hardware equalizer and software spatializer.
+    - Control basic functionnality of the old Parrot ZIK 1 with the legacy mode.
+    - Demo mode to test the application without posseding the headphone.
+
+    For more info on the Parrot Zik headphones please see the official products page : http://www.parrot.com/usa/products/zik2/
+
+
+    Developer note:
+    This app use a modified version of QtBluetooth 5.4.1 that has been backported to Sailfish OS. Source is available here : https://github.com/lainwir3d/qtconnectivity/tree/5.4.1
+
+Configure: none
+Builder: qtc5
+PkgConfigBR:
+- Qt5Quick
+- Qt5Qml
+- Qt5Core
+- sailfishapp >= 0.0.10
+Requires:
+- sailfishsilica-qt5 >= 0.10.9
+Files:
+- '%{_bindir}'
+- '%{_datadir}/%{name}'
+- '%{_datadir}/applications'
+- '%{_datadir}/icons/hicolor/86x86/apps'

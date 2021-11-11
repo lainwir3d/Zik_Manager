@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Name=Zik Manager
+Icon=harbour-zik2-manager
+Exec=harbour-zik2-manager
+

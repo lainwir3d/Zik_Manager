@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>elements/ThumbEqua_src.svg</file>
+        <file>elements/ThumbEqualizer.qml</file>
+        <file>elements/ConcertHall.qml</file>
+        <file>elements/BatteryStatus.qml</file>
+        <file>elements/NoiseControl.qml</file>
+        <file>elements/ThumbEqua.svg</file>
+        <file>elements/icon-l-speaker.png</file>
+        <file>elements/icon-m-speaker.png</file>
+        <file>elements/bolt.svg</file>
+    </qresource>
+</RCC>

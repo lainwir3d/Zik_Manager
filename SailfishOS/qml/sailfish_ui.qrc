@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>cover/CoverPage.qml</file>
+        <file>harbour-zik2-manager.qml</file>
+        <file>pages_zik2/NoiseControlPage.qml</file>
+        <file>pages_zik2/EqualizerPage.qml</file>
+        <file>pages_zik2/ConcertHallPage.qml</file>
+        <file>pages_zik2/FirstPage.qml</file>
+        <file>pages_zik2/PresetPage.qml</file>
+        <file>pages_zik2/AboutPage.qml</file>
+        <file>pages_zik2/Settings.qml</file>
+        <file>pages_zik2/QuickPresetPage.qml</file>
+        <file>pages_zik1/Settings.qml</file>
+        <file>pages_zik1/FirstPage.qml</file>
+        <file>pages_zik1/ConcertHallPage.qml</file>
+        <file>pages_zik1/AboutPage.qml</file>
+        <file>LoadingPage.qml</file>
+    </qresource>
+</RCC>
