@@ -4,7 +4,7 @@ An unofficial native manager for the Parrot Zik headphones range (1 / 2.0 / 3).
 
 # Disclaimer
 
-This has been unmaintained for some time, and is likely to remain so because very few people use Zik nowadays.
+This has been unmaintained for some years, and is likely to remain so because very few people use Zik nowadays. Source code is quite ugly, sorry about that.
 
 # Features supported
 
